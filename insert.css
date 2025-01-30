@@ -1,0 +1,11 @@
+.container, body{
+    background-color: darkgray;
+}
+.input-group-text{
+    width: 8rem;
+}
+img{
+    width: 200px;
+    height: auto;
+}
+

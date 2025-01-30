@@ -1,0 +1,19 @@
+li.lista div.ima img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 1.5em;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+}
+
+li.lista div.card-text{
+    overflow: auto;
+    text-align: justify;
+}
+
+li.lista div.card-text ul{
+    list-style: none;
+}
+
