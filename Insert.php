@@ -76,7 +76,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && class_exists('DateTime')) {
     <meta charset="UTF-8">
     <title>Moduli</title>
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="insert.css">
+    <link rel="stylesheet" href="Style/insert.css">
 </head>
 <body>
 <div class="container">

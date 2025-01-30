@@ -22,7 +22,7 @@ if (empty($notify)) {
     <meta charset="UTF-8">
     <title>Rubrica</title>
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="Style/style.css">
 </head>
 <body>
 <div class="container">
